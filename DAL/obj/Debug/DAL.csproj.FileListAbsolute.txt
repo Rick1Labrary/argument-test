@@ -1,0 +1,5 @@
+D:\C\CanShiCorap\DAL\bin\Debug\DAL.dll
+D:\C\CanShiCorap\DAL\bin\Debug\DAL.pdb
+D:\C\CanShiCorap\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\C\CanShiCorap\DAL\obj\Debug\DAL.dll
+D:\C\CanShiCorap\DAL\obj\Debug\DAL.pdb

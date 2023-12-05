@@ -1,0 +1,6 @@
+D:\C\CanShiCorap\Module\bin\Debug\Module.dll
+D:\C\CanShiCorap\Module\bin\Debug\Module.pdb
+D:\C\CanShiCorap\Module\obj\Debug\Module.csproj.AssemblyReference.cache
+D:\C\CanShiCorap\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+D:\C\CanShiCorap\Module\obj\Debug\Module.dll
+D:\C\CanShiCorap\Module\obj\Debug\Module.pdb

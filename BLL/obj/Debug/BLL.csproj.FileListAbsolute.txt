@@ -1,0 +1,11 @@
+D:\C\CanShiCorap\BLL\bin\Debug\BLL.dll
+D:\C\CanShiCorap\BLL\bin\Debug\BLL.pdb
+D:\C\CanShiCorap\BLL\bin\Debug\DAL.dll
+D:\C\CanShiCorap\BLL\bin\Debug\Module.dll
+D:\C\CanShiCorap\BLL\bin\Debug\DAL.pdb
+D:\C\CanShiCorap\BLL\bin\Debug\Module.pdb
+D:\C\CanShiCorap\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\C\CanShiCorap\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\C\CanShiCorap\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\C\CanShiCorap\BLL\obj\Debug\BLL.dll
+D:\C\CanShiCorap\BLL\obj\Debug\BLL.pdb

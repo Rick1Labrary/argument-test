@@ -1,0 +1,15 @@
+D:\C\CanShiCorap\XLReport\bin\Debug\XLReport.exe.config
+D:\C\CanShiCorap\XLReport\bin\Debug\XLReport.exe
+D:\C\CanShiCorap\XLReport\bin\Debug\XLReport.pdb
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.csproj.AssemblyReference.cache
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.Properties.Resources.resources
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.csproj.GenerateResource.cache
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.csproj.CoreCompileInputs.cache
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.exe
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.pdb
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.FormMain.resources
+D:\C\CanShiCorap\XLReport\bin\Debug\BLL.dll
+D:\C\CanShiCorap\XLReport\bin\Debug\Module.dll
+D:\C\CanShiCorap\XLReport\bin\Debug\BLL.pdb
+D:\C\CanShiCorap\XLReport\bin\Debug\Module.pdb
+D:\C\CanShiCorap\XLReport\obj\Debug\XLReport.csproj.CopyComplete
